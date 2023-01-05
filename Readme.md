@@ -1,6 +1,6 @@
 <h1 align="center"> Predição de vendas das lojas Rossmann</h1> 
 
-<img align="center"  height="450" width="1000" src="https://github.com/brunalimap/DataScience_em_Producao/blob/main/img/img01.jpg" >
+<img align="center"  height="450" width="1000" src="https://github.com/FabricioBucher/Rossmann/blob/main/img/rossmann.jpg" >
 
 
 ## 1.0 Contexto
